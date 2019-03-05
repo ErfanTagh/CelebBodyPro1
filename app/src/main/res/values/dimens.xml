@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_heaigh">32dp</dimen>
+    <dimen name="images_heaigh">88dp</dimen>
+    <dimen name="topmargin">4dp</dimen>
+    <dimen name="card_lay_marg">400dp</dimen>
+
+
+</resources>

@@ -1,0 +1,174 @@
+<resources>
+    <string name="app_name">FitnessPlan</string>
+    <string name="title_activity_brad">BradActivity</string>
+    <string name="lorem">
+        برنامه تمرینی برد پیت برای فیلم فایت کلاب :\nاولین قانون این برنامه که به برنامه تایلر دیردن معروف است ، چربی کم ، تعداد رپ های بالا و وزنه های سنگین به همراه تمرینات هوازی است.\nتو این برنامه شما باید یک گروه عضلانی را در هر روز تمرین داده و هر حرکت شامل 3 ست 15 تایی با یک دقیقه استراحت بینش می شود.\nمی توانید تعداد حرکات را در هر رپ افزایش دهید یا می توانید تهداد حرکات را ثابت نگه دارید ولی هر بار وزنه رو سنگین تر کنید ، پیشنهاد ما اینه که هر دو کار را با هم انجام دهید تا از مزیت جفتشان بهره مند شوید .\nبرنامه تمرینی :\n\nروز اول - سینه\nشنا سوئدیی\nپرس سینه با هالتر\nپرس سینه با دستگاه\nپرس بالاسینه دمبل\nفلای دستگاه\n\nروز دوم - پشت\n25 تا بارفیکس\nسیم کش قایقی\nلت سیم کش\nحرکت تی بار (دستگاه یا هالتر)\n\nروز سوم - سرشانه\nپرس سرشونه جفت دمبل ایستاده\nپرس آرنولدی\nنشر جانب دمبل\nنشر جلو دمبل\n\nروز چهارم - جلو بازو و پشت بازو\nجلو بازو هالتر لاری\nجلو بازو سیمکش میله EZ\nجلو بازو دمبل چکشی\nپشت بازو سیمکش\nپشت بازو دیپ\nپشت بازو سوئینگ دمبل\n\nروز پنجم و ششم - هوازی\nتردمیل اینتروال\nتمرین بوکس 5 راند 3 دقیقه ای\nروز هفتم - استراحت
+    </string>
+
+    <string name="stathom">
+         برنامه تمرینی جیسون استاتهام:برنامه ای که بجای حجم زیاد عضله ، به بدنی بدون چربی،حرکات انفجاری و چابکی تمرکز دارد\nروز اول\nشنا سوئدی\nبارفیکس\nاسکوآت با وزن بدن\nددلیفت پا ها صاف\nحرکت پا های آویزان رو به بالا\nهر یک از تمرینات زیر را برای 4 ست انجام دهید ، سپس در پایان هر تمرین ، وزنه را به مدت 30 ثانیه نگه دارید.زمان استراحت بین هر ست 10 ثانیه هست.\nگرم کردن با دستگاه قایقی - زمان :10 دقیقه\nپرس سینه هالتر\nپرس نظامی شانه دستگاه\nفلای سینه دمبل\nپشت بازو دمبل پرسی\nپشت بازو دیپ پارالل\nنگه داشتن وزنه کتل بار\nاسکات با وزن بدن\nسرد کردن با دستگاه قایقی به مدت 10 دقیقه\nبخش دوم - برنامه ی تمرینی 5 55\n
+استاتهام هر یک از حرکات زیر را ابتدا 10 تا از هر کدام میزد و دور های بعدی یکی از تعداد حرکات کم میکرد یعنی تعداد حرکت به این شکل میشد: 10 9 8 ... 1\nاسکات از جلو با هالتر (وزنه)\nبارفیکس\nشنا سوئدی دست باز\n
+بلند کردن هالتر قدرتی (پاور کلین)\nحرکت بلند کردن پا ها به سمت آرنج\nآخر تمرین:30 دقیقه هوازی\nبرنامه روز سه شنبه:\n
+
+
+
+
+
+
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pushup">شنا سوئدی</string>
+    <string name="brad12txt">پرس سینه با اسمیت</string>
+    <string name="brad13txt">پرس سینه اسمیت نیمکت شیبدار</string>
+    <string name="palofpress">پرس پالوف</string>
+    <string name="brad14txt">فلای سینه با دستگاه</string>
+    <string name="barbelllandmine">هالتر لندماین</string>
+
+
+    <string name="seatedcablerow">زیربغل قایقی سیمکش</string>
+    <string name="suspendedrow">پارویی معلق</string>
+    <string name="neutralgrippullup">بارفیکس</string>
+    <string name="latpulldownfromknees">زیربغل سیمکش از جلو</string>
+    <string name="chinup">بارفیکس مچ برعکس</string>
+    <string name="dumbbellbicepscurl">جلو بازو دمبل چرخشی</string>
+
+    <string name="suspensionsquatjump">اسکات پرشی با بند TRX</string>
+    <string name="swissballhipextension">کشش باسن روی توپ</string>
+    <string name="swissballlegcurl">پشت ران روی توپ</string>
+    <string name="reversewalkinglunge">لانژ پا برعکس</string>
+    <string name="mountainclimberonsliders">پای کوهنورد</string>
+    <string name="dumbbellromaniandeadlift">ددلیفت رومانیایی با دمبل</string>
+    <string name="kickbutts">ضربه به باسن</string>
+    <string name="unstablesinglelegcalfraise">ساق پا ایستاده</string>
+    <string name="suspensiontrainersinglelegsquathop">اسکات تک پا تی آر ایکس با پرش</string>
+    <string name="dumbbellsquatfrontraise">نشر از جلو نشسته</string>
+    <string name="crossbodycableraise">سرشانه سیم کش ضربدری از پایین</string>
+    <string name="dumbbellfloorpress">پرس سینه دمبل</string>
+
+    <string name="dumbbelloverheadpress">پرس سرشانه دمبل</string>
+    <string name="chestcableflye">فلای سینه سیمکش</string>
+    <string name="bosuplyopushup">شنا با توپ بوسو</string>
+    <string name="singlearmpushdown">پشت بازو سیمکش تک دست </string>
+    <string name="singlearmcurl">جلو بازو چرخشی تک دست</string>
+
+
+    <string name="backextension">فیله کمر</string>
+    <string name="weightedsitup">دراز نشست با وزنه</string>
+
+    <string name="pullup">بارفیکس</string>
+    <string name="weightedpullup">بارفیکس وزن دار</string>
+    <string name="narrowpushup">شنا دست نزدیک</string>
+
+
+    <string name="dumbbellrow">حرکت اره ای دمبل جفت دست</string>
+    <string name="swissballhyperextension">فیله ی کمر روی توپ</string>
+    <string name="cablepullwide">سیمکش میله دست باز</string>
+    <string name="bentoverbarbellrow">زیربغل هالتر خم</string>
+    <string name="onearmdumbellrow">حرکت اره ای دمبل تک دست</string>
+    <string name="barbelldeadlift">ددلیفت با هالتر</string>
+    <string name="tbar">دستگاه تی بار</string>
+    <string name="invertedrow">بارفیکس در چهارچوب خمیده</string>
+    <string name="ghayeghi">قایقی دستگاه</string>
+    <string name="straightarmpulldown">پلاور سیمکش</string>
+
+
+    <string name="behindtheneckshoulderpress">پرس سرشانه از پشت</string>
+    <string name="cubanpress">پرس سرشانه کوبایی</string>
+    <string name="dumbbellshoulderpress">پرس سرشانه دمبل</string>
+    <string name="standingmilitarypress">پرس سرشانه ایستاده با هالتر</string>
+    <string name="reversemachineflyes">فلای دستگاه برعکس</string>
+    <string name="SeatedBentOverRearDeltRaise">نشر خم نشسته با دمبل</string>
+    <string name="arnoldpress">پرس سرشانه آرنولدی</string>
+    <string name="lateralraise">نشر از جانب با دمبل</string>
+    <string name="frontraise">نشر از جلو دمبل</string>
+    <string name="barbellshrug">شراگ هالتر</string>
+    <string name="dumbellshrug">شراگ دمبل</string>
+    <string name="dumbbellreardeltflye">فلای نشسته با دمبل</string>
+    <string name="reardeltflye">فلای سرشانه ایستاده</string>
+
+
+    <string name="crossbodydumbbellcurl">جلو بازو کراس بادی</string>
+
+    <string name="barbellcurl">جلو بازو هالتر</string>
+    <string name="bicepcurls">جلو بازو دمبل</string>
+    <string name="zottmancurl">جلو بازو دمبل زاتمن</string>
+    <string name="barbellcurlclosegrip">جلو بازو هالتر دست جمع</string>
+    <string name="barbellcurlwidegrip">جلو بازو هالتر دست باز</string>
+    <string name="highcablecurl">جلو بازو سیمکش از بالا</string>
+    <string name="standingcurl">جلو بازو سیمکش ایستاده</string>
+    <string name="hammercurl">جلو بازو چکشی</string>
+    <string name="bicepextension">جلو بازو دستگاه</string>
+    <string name="reversebarbellcurl">جلو بازو هالتر مچ برعکس</string>
+    <string name="spidercurl">جلو بازو اسپایدر</string>
+
+    <string name="ezbarpreachercurl">جلو بازو لاری میله EZ</string>
+
+    <string name="barbellwristcurl">ساعد با هالتر</string>
+    <string name="barbellreversewristcurl">ساعد با هالتر مچ برعکس</string>
+    <string name="dumbellwristcurl">ساعد نشسته جفت دمبل کف دست رو به بالا</string>
+    <string name="dumbellreversewristcurl">ساعد نشسته جفت دمبل کف دست رو به پایین</string>
+
+
+    <string name="skullcrusher">پشت بازو با دمبل خوابیده</string>
+    <string name="benchdip">دیپ بین دو نیمکت</string>
+    <string name="triceppushdown">پشت بازو سیمکش</string>
+    <string name="ropepressdown">پشت بازو سیمکش</string>
+    <string name="underhandgriplatpulldown">سیمکش از جلو دست عرض شانه مچ برعکس</string>
+    <string name="overheadtriceps">پشت بازو دمبل تک دست</string>
+
+    <string name="HangingLegRaise">حرکت پاهای آویزان به بالا</string>
+    <string name="ropecrunch">حرکت کرانچ با شکم</string>
+    <string name="russiantwist">حرکت چرخشی روسی</string>
+    <string name="generalsideplank">پلانک از بغل</string>
+    <string name="abwheelrollout">شکم غلطک</string>
+    <string name="monkeybarhang">آویزان از میله</string>
+
+    <string name="barbellbenchclosegrip">پرس سینه هالتر دست جمع</string>
+    <string name="barbellbenchmediumgrip">پرس سینه هالتر</string>
+    <string name="barbellbenchpress">پرس سینه هالتر</string>
+    <string name="hammerstrengthchestpress">پرس سینه دستگاه نشسته</string>
+    <string name="weightdip">دیپ با وزنه</string>
+    <string name="cablefly">کراس اور</string>
+    <string name="dumbellbenchpress">پرس سینه دمبل</string>
+    <string name="InclineDumbbellPress">پرس بالاسینه دمبل</string>
+    <string name="FlatBenchCableFlyes">فلای سینه سیمکش روی نیمکت</string>
+    <string name="InclineHammerCurls"> جلو بازو چکشی روی میز شیبدار</string>
+    <string name="inclinedumbbellbicepscurl">جلو بازو میز شیبدار</string>
+    <string name="chestdip">دیپ سینه</string>
+    <string name="bodyweightdip">دیپ با وزن بدن</string>
+
+
+    <string-array name="planets_array">
+        <item>افزودن به لیست علاقه مندی</item>
+    </string-array>
+
+
+    <string name="diamondpushup">شنا لوزی</string>
+    <string name="plunk">پلانک</string>
+
+
+    <string name="pararelldip">دیپ با میله ی پارالل</string>
+    <string name="legpress">پرس پا با دستگاه</string>
+    <string name="hacksquat">هاگ پا اسکات</string>
+    <string name="zerchersquat">اسکوآت زرچر</string>
+    <string name="hacksquatoneleg">هاگ پا اسکات تک پا</string>
+    <string name="barbellromaniandeadlift">ددلیفت رومانیایی با هالتر</string>
+    <string name="legextensions">جلو پا دستگاه</string>
+    <string name="seatedlegcurl">پشت پا نشسته با دستگاه</string>
+    <string name="thighabductor">دستگاه عضله داخلی ران</string>
+    <string name="barbellsquat">اسکات با هالتر</string>
+    <string name="barbellfrontsquat">اسکوات با هالتر از جلو</string>
+    <string name="fourtyfive45degreesinglelegpress">پرس پا تکی ماشین زاویه 45 درجه</string>
+    <string name="walkinglunj">لانژ پا هالتر</string>
+    <string name="stamdingcalf">ساق پا ایستاده</string>
+    <string name="bodyweightwalkinglunge">لانژ پا با وزن بدن</string>
+    <string name="singlelegcurl">پشت پا تکی ایستاده</string>
+    <string name="standingcalfraise">ساق پا ایستاده</string>
+    <string name="item_removed_message">به لیست علاقه مندی اضافه شد</string>
+    <string name="no_favorites_items">در لیست چیزی نیست</string>
+    <string name="no_favorites_msg">لیست خالی است</string>
+
+
+</resources>
